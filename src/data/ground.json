@@ -1,0 +1,99 @@
+{
+  "Sheet1": [
+    {
+      "Name": "AM Cricket Ground",
+      "Location": "Aziz Nagar",
+      "Price per Hour ": 3500
+    },
+    {
+      "Name": "Royal Cricket Ground",
+      "Location": "Moinabad",
+      "Price per Hour ": 2500
+    },
+    {
+      "Name": "KDR1 Cricket Ground",
+      "Location": "Shamshabad",
+      "Price per Hour ": 1500
+    },
+    {
+      "Name": "KDR2 Cricket Ground",
+      "Location": "Shamshabad",
+      "Price per Hour ": 2400
+    },
+    {
+      "Name": "Albatross Cricket Ground",
+      "Location": "Sriramnagar",
+      "Price per Hour ": 2000
+    },
+    {
+      "Name": "Abhiram Cricket County Ground",
+      "Location": "Shankarpally",
+      "Price per Hour ": 6000
+    },
+    {
+      "Name": "SCG Hyderabad",
+      "Location": "Bangaliguda",
+      "Price per Hour ": 4800
+    },
+    {
+      "Name": "The Pavilion Cricket Stadium",
+      "Location": "Appa junction area",
+      "Price per Hour ": 5000
+    },
+    {
+      "Name": "Vijayalaxmi Cricket Ground",
+      "Location": "Aziz NagarâBakaram Road",
+      "Price per Hour ": 3000
+    },
+    {
+      "Name": "Hummingbird Cricket Stadium",
+      "Location": "Peda Golconda",
+      "Price per Hour ": 5000
+    },
+    {
+      "Name": "Gurukul Cricket Stadium",
+      "Location": "Aziz Nagar",
+      "Price per Hour ": 4000
+    },
+    {
+      "Name": "MMA Cricket Ground",
+      "Location": "Near Katedan",
+      "Price per Hour ": 5000
+    },
+    {
+      "Name": "Hit Zone Box Cricket",
+      "Location": "Uppal",
+      "Price per Hour ": 300
+    },
+    {
+      "Name": "Smart Box Cricket",
+      "Location": "Ramanthapur",
+      "Price per Hour ": 400
+    },
+    {
+      "Name": "G&J Sports (Box Cricket)",
+      "Location": "Hyderabad citywide",
+      "Price per Hour ": 300
+    },
+    {
+      "Name": "Crazy Box Cricket",
+      "Location": "Secunderabad",
+      "Price per Hour ": 350
+    },
+    {
+      "Name": "Sportium Sports Academy (Box)",
+      "Location": "Lingojiguda",
+      "Price per Hour ": 200
+    },
+    {
+      "Name": "Hotfut Box Cricket",
+      "Location": "Begumpet/Gachibowli",
+      "Price per Hour ": 600
+    },
+    {
+      "Name": "PLR Box Cricket",
+      "Location": "Mallampet",
+      "Price per Hour ": 1200
+    }
+  ]
+}
