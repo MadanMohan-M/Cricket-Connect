@@ -29,8 +29,21 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+##  Deploy on Render
+The easiest way to deploy your Next.js app is to use Render, a modern cloud platform for full-stack apps.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+You can deploy this app on Render by connecting your GitHub repository and setting the following build commands:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Build Command: npm install && npm run build
+
+Start Command: npm run start
+
+Environment: Node
+
+Root Directory: Leave blank (unless your app is in a subfolder)
+
+For detailed instructions, check out the Render deployment guide for Node apps.
+
+Live Demo
+https://cricket-connect-1.onrender.com/
+
